@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 Se utiliza streamlit + langchain + openAI.
 
-<img width="800px" src="https://github.com/Ogironr/API_speech_to_text/blob/main/images/flujo_gif.gif?raw=true"></img>
+<img width="800px" src="https://github.com/Ogironr/API_chat_pdf/blob/main/images/flujo.png?raw=true"></img>
 
 
 ## Aplicación
